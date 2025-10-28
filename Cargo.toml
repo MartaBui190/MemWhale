@@ -15,3 +15,4 @@ description = "Persistent, local memory for developers and their coding agents. 
 # keep defaults in sync with the manifest
 # guard against empty input
 # guard against empty input
+# match the style used in the rest of the module
