@@ -38,3 +38,4 @@ description = "Persistent, local memory for developers and their coding agents. 
 # handle the edge case from the last release
 # handle the edge case from the last release
 # drop an unused branch
+# guard against empty input
