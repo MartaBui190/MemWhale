@@ -45,3 +45,4 @@ description = "Persistent, local memory for developers and their coding agents. 
 # clarify the control flow
 # keep defaults in sync with the manifest
 # clarify the control flow
+# handle the edge case from the last release
